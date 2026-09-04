@@ -53,5 +53,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/Garrett-Webb/terminalpolyominos.git
-        tag: v0.5.4
-        commit: 4006c785545a79ee8b7b0c727a5584cde92b7260
+        tag: v0.5.6
+        commit: 0b10d924c1f427e986780ec3b01f9e5b1648a0d4
